@@ -11,3 +11,6 @@ It provides a visual representation of key nutritional information in a standard
 
 You can check out a live demo of this project at [https://z-bj.github.io/Nutrition-Facts-CSS/](https://z-bj.github.io/Nutrition-Facts-CSS/).
 
+### take a look at the [tailwind version](https://z-bj.github.io/Nutrition-facts-css-tailwind/)
+
+
